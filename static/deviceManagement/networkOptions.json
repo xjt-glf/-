@@ -1,0 +1,25 @@
+{
+	"success": true,
+	"data": [{
+			"value": "1",
+			"label": "组网1"
+		},
+		{
+			"value": "2",
+			"label": "组网2"
+		},
+		{
+			"value": "3",
+			"label": "组网3"
+		},
+		{
+			"value": "4",
+			"label": "组网4"
+		},
+		{
+			"value": "5",
+			"label": "组网5"
+		}
+
+	]
+}

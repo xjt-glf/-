@@ -1,0 +1,21 @@
+{"success": true,
+	"data": {
+			"id": "1",
+			"event_name": "事件xx",
+			"net_name":"Tom_net",
+			"if_danger":true,
+			"image":"https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+			"model":"YOLO5",
+			"end_time":"",
+			"coll_time":"",
+			"conf":"99%",
+			"output_img":"https://fuss10.elemecdn.com/e/5d/4a731a90594a4af544c0c25941171jpeg.jpeg",
+			"img_lng":"116.395884",
+			"img_lat":"39.909238",
+			"objects":[{"name":"fire","conf":0.97},
+			{"name":"people","conf":0.92}
+			]
+		}
+		
+	
+}

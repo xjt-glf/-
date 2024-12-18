@@ -1,0 +1,18 @@
+{
+	"success": true,
+	"data": [{
+			"value": "1",
+			"label": "用户1"
+		},
+		{
+			"value": "2",
+			"label": "用户2"
+		},
+		{
+			"value": "3",
+			"label": "用户3"
+		}
+	
+
+	]
+}

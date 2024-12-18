@@ -1,0 +1,33 @@
+{
+	"success": true,
+	"data": [{
+			"value": "1",
+			"label": "盒子1"
+		},
+		{
+			"value": "2",
+			"label": "盒子2"
+		},
+		{
+			"value": "3",
+			"label": "盒子3"
+		},
+		{
+			"value": "4",
+			"label": "盒子4"
+		},
+		{
+			"value": "5",
+			"label": "盒子5"
+		},
+		{
+			"value": "6",
+			"label": "盒子6"
+		},
+		{
+			"value": "7",
+			"label": "盒子7"
+		}
+
+	]
+}

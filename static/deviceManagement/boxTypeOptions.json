@@ -1,0 +1,25 @@
+{
+	"success": true,
+	"data": [{
+			"value": "1",
+			"label": "型号1"
+		},
+		{
+			"value": "2",
+			"label": "型号2"
+		},
+		{
+			"value": "3",
+			"label": "型号3"
+		},
+		{
+			"value": "4",
+			"label": "型号4"
+		},
+		{
+			"value": "5",
+			"label": "型号5"
+		}
+
+	]
+}
